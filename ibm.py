@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-df = pd.read_csv("E:\PRACTICE ON VS CODE\Data Science Python\WA_Fn-UseC_-HR-Employee-Attrition.csv")  # replace with your filename
+df = pd.read_csv("C:\Users\Samn\Downloads\HR-Employee-Attrition.csv")  # replace with your filename
 
 # Set plot style
 sns.set(style="whitegrid")
